@@ -4,7 +4,7 @@ kMer = None
 currentKMer = None
 countOfKMer = 0
 total9Mer=0
-outputText=9
+outputText=21
 
 for line in sys.stdin:
 	line = line.strip()
